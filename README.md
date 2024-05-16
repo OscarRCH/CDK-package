@@ -1,5 +1,5 @@
-![Project Logo](![image](https://github.com/OscarRCH/Project_NMR_BA3/assets/160874520/0f2df2e0-fac2-4e5c-96b8-d8ee2b70d592)
-)
+![Project Logo](![70f1804c7aee4bd3ee73ac81aff1ed18c19b9527](https://github.com/OscarRCH/Project_NMR_BA3/assets/160874520/a62fd4f8-8b35-46d8-8642-faf7375fdc1c))
+
 
 [![Code style: ruff-format](https://img.shields.io/badge/code%20style-ruff_format-6340ac.svg)](https://github.com/astral-sh/ruff)
 ![Coverage Status](https://raw.githubusercontent.com/OscarRCH/NMRoss/main/coverage-badge.svg)
