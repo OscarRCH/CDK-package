@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: be29831
+_src_path: https://github.com/schwallergroup/copier-liac.git
+author_email: oscar.rosseneu@epfl.ch
+author_name: Oscar Rosseneu
+enforce_code_style: false
+github_org: OscarRCH
+package_name: nmross
+project_name: NMRoss
+short_description: Hydrogen NMR spectrum predictor
