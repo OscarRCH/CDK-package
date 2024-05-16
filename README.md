@@ -1,4 +1,5 @@
-![Project Logo](assets/banner.png)
+![Project Logo](![image](https://github.com/OscarRCH/Project_NMR_BA3/assets/160874520/0f2df2e0-fac2-4e5c-96b8-d8ee2b70d592)
+)
 
 [![Code style: ruff-format](https://img.shields.io/badge/code%20style-ruff_format-6340ac.svg)](https://github.com/astral-sh/ruff)
 ![Coverage Status](https://raw.githubusercontent.com/OscarRCH/NMRoss/main/coverage-badge.svg)
